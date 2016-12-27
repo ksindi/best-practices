@@ -64,3 +64,4 @@ List of resources that advise on Python best practices, in order of relevance:
 Code repositories that make good use of the language:
 
 - [Requests](https://github.com/kennethreitz/requests)
+- [joblib](https://github.com/joblib/joblib)
