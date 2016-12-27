@@ -17,6 +17,8 @@ TODO
 
 Use [flake8](https://flake8.readthedocs.io/en/latest/).
 
+Python style error codes: https://pycodestyle.readthedocs.io/en/latest/intro.html#error-codes
+
 ## Unit testing
 
 Use [doctest](https://docs.python.org/3/library/doctest.html) for small utility functions that never change.
