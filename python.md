@@ -11,7 +11,7 @@ Documentation can be automatically generated with
 
 ## Project Structure
 
-TODO
+See my [cookiecutter pypackage](https://github.com/ksindi/cookiecutter-pypackage).
 
 ## Linting
 
