@@ -1,2 +1,3 @@
-# standards
-List of coding and technology standards
+# Best Practices
+
+Anthology of best practices
