@@ -53,6 +53,7 @@ Label prefixes follow pandas [guidelines](http://pandas.pydata.org/pandas-docs/s
 
 List of resources that advise on Python best practices, in order of relevance:
 - [Effective Python](http://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) by Brett Slatkin [Book]
+- [Refactoring Python](https://speakerdeck.com/pycon2016/brett-slatkin-refactoring-python-why-and-how-to-restructure-your-code) [Slides]
 - [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style) [URL]
 - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M) [Video]
 - [Writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html) [URL]
