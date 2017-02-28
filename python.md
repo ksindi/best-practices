@@ -17,7 +17,7 @@ See my [cookiecutter pypackage](https://github.com/ksindi/cookiecutter-pypackage
 
 Use [flake8](https://flake8.readthedocs.io/en/latest/).
 
-Python style error codes: https://pycodestyle.readthedocs.io/en/latest/intro.html#error-codes
+Python style error codes: https://pycodestyle.readthedocs.io/en/latest/intro.html#error-codes (so you can run `#noQA: E123`)
 
 ## Unit testing
 
