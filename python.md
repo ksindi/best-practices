@@ -49,6 +49,18 @@ Label prefixes follow pandas [guidelines](http://pandas.pydata.org/pandas-docs/s
 > PERF: Performance improvement  
 > CLN: Code cleanup
 
+## Recommended Libraries
+
+Libraries you should use in many projects:
+
+- [attrs](https://attrs.readthedocs.io/en/stable/)
+- [requests](http://docs.python-requests.org/en/master/)
+- [tqdm](https://github.com/noamraph/tqdm)
+- [joblib](https://pythonhosted.org/joblib/parallel.html)
+- [udatetime](https://github.com/freach/udatetime)
+- [jinjasql](https://github.com/hashedin/jinjasql)
+- [maya](https://github.com/kennethreitz/maya)
+
 ## Resources
 
 List of resources that advise on Python best practices, in order of relevance:
@@ -65,6 +77,6 @@ List of resources that advise on Python best practices, in order of relevance:
 
 Code repositories that make good use of the language:
 
-- [Requests](https://github.com/kennethreitz/requests)
+- [requests](https://github.com/kennethreitz/requests)
 - [joblib](https://github.com/joblib/joblib)
-- [MoviePy](https://github.com/Zulko/moviepy)
+- [moviepy](https://github.com/Zulko/moviepy)
