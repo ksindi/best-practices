@@ -51,8 +51,6 @@ Label prefixes follow pandas [guidelines](http://pandas.pydata.org/pandas-docs/s
 
 ## Recommended Libraries
 
-Libraries you should use in many projects:
-
 - [attrs](https://attrs.readthedocs.io/en/stable/)
 - [requests](http://docs.python-requests.org/en/master/)
 - [tqdm](https://github.com/noamraph/tqdm)
