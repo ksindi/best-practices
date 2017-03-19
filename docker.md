@@ -1,3 +1,5 @@
+# Docker Best Practices
+
 - Avoid volumes to keep container stateless.
 - Use COPY instead of ADD.
 - Make COPY last line before CMD or ENTRYPOINT.
