@@ -1,6 +1,6 @@
 # Docker Best Practices
 
-- Avoid volumes to keep container stateless.
+- Keep containers stateless.
 - Use COPY instead of ADD.
 - Make COPY last line before CMD or ENTRYPOINT.
   - Each line in the Dockerfile is cached.
@@ -18,8 +18,16 @@ CMD ["--help"]
 RUN groupadd -r myapp && useradd -r -g myapp myapp
 USER myapp
 ```
-- Log everything to STDOUT
-- Support SIGTERM, SIGKILL to exit gracefully
+- Log everything to STDOUT.
+- One process per container.
+- Limit access from network. Example:
+```
+docker network create --driver bridge isolated_nw
+docker run --network=isolated_nw --name=container busybox
+```
+- Support SIGTERM, SIGKILL and SIGINT to exit gracefully.
+- 1 Process per container.
+  - No supervisord, uWSGI 1 worker.
 
 
 ## Resources
