@@ -56,6 +56,7 @@ Label prefixes follow pandas [guidelines](http://pandas.pydata.org/pandas-docs/s
 - [attrs](https://attrs.readthedocs.io/en/stable/)
 - [requests](http://docs.python-requests.org/en/master/)
 - [tqdm](https://github.com/noamraph/tqdm)
+- [fire](https://github.com/google/python-fire)
 - [joblib](https://pythonhosted.org/joblib/parallel.html)
 - [udatetime](https://github.com/freach/udatetime)
 - [jinjasql](https://github.com/hashedin/jinjasql)
@@ -71,7 +72,9 @@ List of resources that advise on Python best practices, in order of relevance:
 - [Writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html) [URL]
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [Video]
 - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) [URL]
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/): In Java but still useful [Book]
+- [Python 3](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
+- [Effective Python in Python 3.6](https://speakerdeck.com/hayaosuzuki/effective-python-in-python-3-dot-6)
+
 
 ## Examples of Well Written Python Code
 
