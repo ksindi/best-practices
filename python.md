@@ -72,10 +72,13 @@ List of resources that advise on Python best practices, in order of relevance:
 - [Writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html) [URL]
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [Video]
 - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) [URL]
-- [Python 3 FAQ by eev.ee](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 - [Effective Python in Python 3.6](https://speakerdeck.com/hayaosuzuki/effective-python-in-python-3-dot-6)
-- [New data structures in Python 3](https://github.com/topper-123/Articles/blob/master/New-interesting-data-types-in-Python3.rst)
 
+## More Python Resources
+- [New data structures in Python 3](https://github.com/topper-123/Articles/blob/master/New-interesting-data-types-in-Python3.rst)
+- [Undestanding the Python GIL](https://www.slideshare.net/dabeaz/understanding-the-python-gil)
+- [Python 3 FAQ by eev.ee](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
+- [Python with type hints](http://www.daveoncode.com/2017/03/06/writing-better-software-with-python-3-6-type-hints)
 
 ## Examples of Well Written Python Code
 
