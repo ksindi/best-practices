@@ -33,3 +33,4 @@ docker run --network=isolated_nw --name=container busybox
 ## Resources
 - https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
 - https://github.com/FuriKuri/docker-best-practices
+- [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d#.aljoaimgx)
