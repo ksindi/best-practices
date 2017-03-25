@@ -61,6 +61,7 @@ Label prefixes follow pandas [guidelines](http://pandas.pydata.org/pandas-docs/s
 - [udatetime](https://github.com/freach/udatetime)
 - [jinjasql](https://github.com/hashedin/jinjasql)
 - [maya](https://github.com/kennethreitz/maya)
+- [pipenv](https://github.com/kennethreitz/pipenv)
 
 ## Resources
 
@@ -72,6 +73,7 @@ List of resources that advise on Python best practices, in order of relevance:
 - [Writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html) [URL]
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [Video]
 - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) [URL]
+- [What's New In Python 3.6](https://docs.python.org/3/whatsnew/3.6.html)
 - [Effective Python in Python 3.6](https://speakerdeck.com/hayaosuzuki/effective-python-in-python-3-dot-6)
 
 ## More Python Resources
