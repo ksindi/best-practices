@@ -58,6 +58,7 @@ Alternative: deleting images with no tags
 `sudo docker rmi $(sudo docker images | grep "^<none>" | awk '{print $3}')`
 
 ## Resources
+- [Kubernetes best practices](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 - https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
 - https://github.com/FuriKuri/docker-best-practices
 - [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d#.aljoaimgx)
