@@ -29,12 +29,6 @@ Use [pytest](http://doc.pytest.org/en/latest/) for larger unittests.
 
 Other tools: [mock](https://pypi.python.org/pypi/mock)
 
-## Branch Naming
-
-Follow the convention: `{ticket}-{description}`.
-
-Example: `ticket-123-some-description`
-
 ## Commits
 
 Commit messages should be in the form: `{prefix} [{ticket}] {descriptive message}`.
